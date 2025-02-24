@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1735204648046">
+    <module artifactId="dremio-ui-semantic-search" groupId="com.dremio" version="25.2.0-202410241428100111-a963b970"/>
+    <files>
+        <file path="Makefile" result="NOOP"/>
+        <file path="dremio-semantic-search.grammar" result="NOOP"/>
+        <file path="pom.xml" result="NOOP"/>
+        <file path="src\SemanticSearchInput.tsx" result="NOOP"/>
+        <file path="src\index.tsx" result="NOOP"/>
+        <file path="src\modules.d.ts" result="NOOP"/>
+        <file path="src\parseQueryText.test.ts" result="NOOP"/>
+        <file path="src\parseQueryText.ts" result="NOOP"/>
+        <file path="src\parser\parser.test.ts" result="NOOP"/>
+    </files>
+</licensePluginReport>

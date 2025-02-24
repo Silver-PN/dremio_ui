@@ -1,0 +1,17 @@
+IKyARCCRrRiCJMvstF+JQikuPtOllv1hYZxMclNppaQ=
+pom.xml 2024-12-26T09:01:18.521659100Z
+src\main\java\com\dremio\dac\annotations\APIResource.java 2024-12-26T09:01:18.303764700Z
+src\main\java\com\dremio\dac\annotations\Bootstrap.java 2024-12-26T09:01:18.313849800Z
+src\main\java\com\dremio\dac\annotations\OAuthResourceType.java 2024-12-26T09:01:18.324217Z
+src\main\java\com\dremio\dac\annotations\RestApiServer.java 2024-12-26T09:01:18.334685800Z
+src\main\java\com\dremio\dac\annotations\RestResource.java 2024-12-26T09:01:18.345476900Z
+src\main\java\com\dremio\dac\annotations\RestResourceUsedForTesting.java 2024-12-26T09:01:18.355865900Z
+src\main\java\com\dremio\dac\annotations\Secured.java 2024-12-26T09:01:18.370741200Z
+src\main\java\com\dremio\dac\annotations\TemporaryAccess.java 2024-12-26T09:01:18.381302200Z
+src\main\java\com\dremio\dac\datatype\ScaledBytes.java 2024-12-26T09:01:18.396566500Z
+src\main\java\com\dremio\dac\datatype\ScaledBytesDeserializer.java 2024-12-26T09:01:18.412481300Z
+src\main\java\com\dremio\dac\datatype\ScaledBytesSerializer.java 2024-12-26T09:01:18.427897100Z
+src\main\java\com\dremio\dac\options\PowerBIResourceOptions.java 2024-12-26T09:01:18.438166900Z
+src\main\java\com\dremio\dac\options\TableauResourceOptions.java 2024-12-26T09:01:18.448325600Z
+src\main\java\com\dremio\dac\options\UIOptions.java 2024-12-26T09:01:18.463651800Z
+src\test\java\com\dremio\dac\datatype\TestScaledBytes.java 2024-12-26T09:01:18.495077600Z

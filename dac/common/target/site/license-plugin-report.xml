@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1735204589634">
+    <module artifactId="dremio-dac-common" groupId="com.dremio" version="25.2.0-202410241428100111-a963b970"/>
+    <files>
+        <file path="pom.xml" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\APIResource.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\Bootstrap.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\OAuthResourceType.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\RestApiServer.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\RestResource.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\RestResourceUsedForTesting.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\Secured.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\annotations\TemporaryAccess.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\datatype\ScaledBytes.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\datatype\ScaledBytesDeserializer.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\datatype\ScaledBytesSerializer.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\options\PowerBIResourceOptions.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\options\TableauResourceOptions.java" result="NOOP"/>
+        <file path="src\main\java\com\dremio\dac\options\UIOptions.java" result="NOOP"/>
+        <file path="src\main\resources\sabot-module.conf" result="NOOP"/>
+        <file path="src\test\java\com\dremio\dac\datatype\TestScaledBytes.java" result="NOOP"/>
+    </files>
+</licensePluginReport>

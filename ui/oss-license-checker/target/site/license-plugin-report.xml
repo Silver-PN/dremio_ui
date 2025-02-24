@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1735204629626">
+    <module artifactId="dremio-ui-oss-license-checker" groupId="com.dremio" version="25.2.0-202410241428100111-a963b970"/>
+    <files>
+        <file path="Makefile" result="NOOP"/>
+        <file path="pom.xml" result="NOOP"/>
+        <file path="src\index.ts" result="NOOP"/>
+    </files>
+</licensePluginReport>

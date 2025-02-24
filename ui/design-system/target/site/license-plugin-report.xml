@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1735204628056">
+    <module artifactId="dremio-ui-design-system" groupId="com.dremio" version="25.2.0-202410241428100111-a963b970"/>
+    <files>
+        <file path="pom.xml" result="NOOP"/>
+        <file path="scss\utility-classes\bg-vars.scss" result="NOOP"/>
+        <file path="scss\utility-classes\bg.scss" result="NOOP"/>
+        <file path="scss\utility-classes\focus.scss" result="NOOP"/>
+        <file path="scss\utility-classes\hover.scss" result="NOOP"/>
+        <file path="scss\utility-classes\icon.scss" result="NOOP"/>
+        <file path="scss\utility-classes\index.scss" result="NOOP"/>
+        <file path="scss\utility-classes\text.scss" result="NOOP"/>
+        <file path="scss\variables\_index.scss" result="NOOP"/>
+        <file path="scss\variables\_semanticTokens.scss" result="NOOP"/>
+        <file path="scss\variables\_text.scss" result="NOOP"/>
+    </files>
+</licensePluginReport>
